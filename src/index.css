@@ -10,14 +10,14 @@
 }
 
 .top-header {
-  background-color: slategrey;
+  background-color: silver;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 15px 60px;
 }
 .top-header h1 {
-
+  color: teal;
 }
 .nav-links {
   display: flex;
@@ -25,14 +25,14 @@
 }
 .nav-links a {
   font-size: 23px;
-  color: skyblue; 
+  color: black; 
 }
 .active {
   font-weight: 700;
-  color: pink !important;
+  color: teal !important;
 }
 
 footer {
   height: 100px;
-  background-color: pink;
+  background-color: silver;
 }

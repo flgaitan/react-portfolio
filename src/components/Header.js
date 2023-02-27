@@ -4,7 +4,7 @@ import Navigation from './Navigation'
 function Header() {
   return (
     <div className='top-header'>
-      <h1>Fiama</h1>
+      <h1>Fiama G.</h1>
       <Navigation/>
     </div>
   )
